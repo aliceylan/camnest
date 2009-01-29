@@ -1,0 +1,30 @@
+#labels Phase-Design
+=Project Overview=
+The aim of the project is to create a CAD software having these features:
+
+-Importing DXF files.
+
+-Automatic nesting of parts in the drawing sheet.
+
+-Modifying the parts to insert an "attack angle" for cutting (maybe using radius compensation?).
+
+-Saving the sheet as DXF.
+
+-Exporting the file to G code.
+
+
+= ROAD MAP=
+
+
+V0.1 - IMPORTING A SINGLE DXF FILE IN THE DRAWING WINDOW.
+
+V0.2 - INSERTING MANY DXF in A SINGLE SHEET.
+
+V0.3 -  EXPORTING TO G CODE.
+
+V0.4 - MODIFYING PARTS.
+
+V0.5 - CLEAN UPS / BUG FIXES
+
+V0.6 - AUTO NESTING
+
