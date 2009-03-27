@@ -4,7 +4,7 @@ The aim of the project is to create a CAD software having these features:
 
 -Importing DXF files.
 
--Modifying the parts to insert an "attack angle" for cutting (maybe using radius compensation?).
+-Modifying the parts to insert lead-in/out entries points for cutting .
 
 -Saving the sheet as DXF.
 
