@@ -30,4 +30,6 @@ V0.4.5-  Advanced Parts geometrical transformations.
 
 V0.5 - CLEAN UPS / BUG FIXES
 
+V0.5.5 - Path Optimization optimization :)
+
 V0.6 - AUTO NESTING
