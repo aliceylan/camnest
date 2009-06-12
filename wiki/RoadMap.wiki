@@ -2,13 +2,13 @@
 =Project Overview=
 The aim of the project is to create a CAD software having these features:
 
--Importing DXF files.
-
--Modifying the parts to insert lead-in/out entries points for cutting .
+-Importing DXF files.( DONE )
+ 
+-Modifying the parts to insert lead-in/out entries points for cutting . ( DONE )
 
 -Saving the sheet as DXF.
 
--Exporting the file to G code.
+-Exporting the file to G code. ( DONE )
 
 -Automatic nesting of parts in the drawing sheet.
 
@@ -18,7 +18,7 @@ The aim of the project is to create a CAD software having these features:
 
 V0.1 - IMPORTING A SINGLE DXF FILE IN THE DRAWING WINDOW.
 
-V0.2 - INSERTING MANY DXF in A SINGLE SHEET.
+V0.2 - INSERTING MULTIPLE PARTS in A SINGLE SHEET.
 
 V0.3 -  EXPORTING TO G CODE.
 
